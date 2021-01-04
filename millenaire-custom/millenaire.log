@@ -25,3 +25,64 @@
 8.1.0 31-12-2020 15:58:03 Starting new session. Mods: examplemod 
 8.1.0 31-12-2020 15:58:53 MAJOR: null: Loading language: ru_ru
 8.1.0 31-12-2020 15:58:54 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 31-12-2020 17:05:54 Starting new session. Mods: examplemod 
+8.1.0 31-12-2020 17:06:49 MAJOR: null: Loading language: ru_ru
+8.1.0 31-12-2020 17:06:51 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 31-12-2020 18:46:18 Starting new session. Mods: examplemod 
+8.1.0 31-12-2020 18:47:08 MAJOR: null: Loading language: ru_ru
+8.1.0 31-12-2020 18:47:09 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 31-12-2020 20:14:22 Starting new session. Mods: examplemod 
+8.1.0 31-12-2020 20:15:12 MAJOR: null: Loading language: ru_ru
+8.1.0 31-12-2020 20:15:14 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 01-01-2021 03:43:15 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 03:44:14 MAJOR: null: Loading language: ru_ru
+8.1.0 01-01-2021 03:44:16 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 01-01-2021 04:26:03 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 04:27:00 MAJOR: null: Loading language: ru_ru
+8.1.0 01-01-2021 04:27:01 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 01-01-2021 15:25:46 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 15:26:45 MAJOR: null: Loading language: ru_ru
+8.1.0 01-01-2021 15:26:46 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 01-01-2021 20:55:45 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 20:57:08 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 20:58:02 MAJOR: null: Loading language: ru_ru
+8.1.0 01-01-2021 20:58:03 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 01-01-2021 22:24:51 Starting new session. Mods: examplemod 
+8.1.0 01-01-2021 22:25:45 MAJOR: null: Loading language: ru_ru
+8.1.0 01-01-2021 22:25:47 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 02-01-2021 20:30:26 Starting new session. Mods: examplemod 
+8.1.0 02-01-2021 20:31:18 MAJOR: null: Loading language: ru_ru
+8.1.0 02-01-2021 20:31:19 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 02-01-2021 21:17:14 Starting new session. Mods: examplemod 
+8.1.0 02-01-2021 21:18:22 MAJOR: null: Loading language: ru_ru
+8.1.0 02-01-2021 21:18:23 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 02-01-2021 22:35:47 Starting new session. Mods: examplemod 
+8.1.0 02-01-2021 22:36:41 MAJOR: null: Loading language: ru_ru
+8.1.0 02-01-2021 22:36:42 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 02-01-2021 23:26:59 Starting new session. Mods: examplemod 
+8.1.0 02-01-2021 23:28:03 MAJOR: null: Loading language: ru_ru
+8.1.0 02-01-2021 23:28:05 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 02-01-2021 23:28:52 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@b790757: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@f468267
+8.1.0 03-01-2021 00:18:27 Starting new session. Mods: examplemod 
+8.1.0 03-01-2021 00:19:27 MAJOR: null: Loading language: ru_ru
+8.1.0 03-01-2021 00:19:28 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 03-01-2021 00:19:54 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@35e9a9e2: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@31d62b00
+8.1.0 03-01-2021 21:55:40 Starting new session. Mods: examplemod 
+8.1.0 03-01-2021 21:56:29 MAJOR: null: Loading language: ru_ru
+8.1.0 03-01-2021 21:56:30 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 03-01-2021 22:01:42 Starting new session. Mods: examplemod 
+8.1.0 03-01-2021 22:02:32 MAJOR: null: Loading language: ru_ru
+8.1.0 03-01-2021 22:02:32 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 03-01-2021 22:03:16 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@2578fa5c: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@2bbf015b
+8.1.0 03-01-2021 23:35:24 Starting new session. Mods: examplemod 
+8.1.0 03-01-2021 23:36:13 MAJOR: null: Loading language: ru_ru
+8.1.0 03-01-2021 23:36:14 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 03-01-2021 23:36:59 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@5ae729b2: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@5ed8a6b1
+8.1.0 04-01-2021 16:05:06 Starting new session. Mods: examplemod 
+8.1.0 04-01-2021 16:06:35 MAJOR: null: Loading language: ru_ru
+8.1.0 04-01-2021 16:06:37 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 04-01-2021 21:34:47 Starting new session. Mods: examplemod 
+8.1.0 04-01-2021 21:35:45 MAJOR: null: Loading language: ru_ru
+8.1.0 04-01-2021 21:35:47 MAJOR: null: LanguageData loaded: ru_ru. Wand invitem name: Жезл Создания
+8.1.0 04-01-2021 21:36:12 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@62f8ac35: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@6c3f5fc2
+8.1.0 04-01-2021 21:36:12 ERROR: org.millenaire.common.pathing.atomicstryker.AStarWorkerJPS@3a0058ce: Chunk access violation while calculating a path for org.millenaire.common.pathing.atomicstryker.AStarPathPlannerJPS@34c7b026
